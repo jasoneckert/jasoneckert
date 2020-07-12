@@ -1,6 +1,6 @@
 ### Welcome to my public corner on GitHub! 
 Want to know more about me? Check out my personal website & blog by navigating to one of the following URLs:
-- https://jasoneckert.github.com
+- https://jasoneckert.github.io
 - https://triosdevelopers.com/jason.eckert/
 
 <!--
