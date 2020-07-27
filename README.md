@@ -1,9 +1,9 @@
-### Welcome to my public corner on GitHub! 
+# Welcome to my public corner on GitHub! 
 Want to know more about me? Check out my personal website & blog by navigating to one of the following URLs:
 - https://jasoneckert.github.io
 - https://triosdevelopers.com/jason.eckert/
 
-You are visitor: ![Visitor Count](https://profile-counter.glitch.me/jasoneckert/count.svg)
+# You are visitor: ![Visitor Count](https://profile-counter.glitch.me/jasoneckert/count.svg)
 
 <!--
 **jasoneckert/jasoneckert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
