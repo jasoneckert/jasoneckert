@@ -1,4 +1,7 @@
 # Welcome to my public corner on GitHub! 
+An ancient C worshippper, I mostly dabble in Rust today, as well as play with the odd JavaScript framework.
+I take on at least one project per year that piques my interest, but you won't find those here ;-)
+
 Want to know more about me? Check out my personal website & blog by navigating to one of the following URLs:
 - https://jasoneckert.github.io
 - https://triosdevelopers.com/jason.eckert/
