@@ -4,7 +4,7 @@ Want to know more about me? Check out my personal website & blog by navigating t
 - https://triosdevelopers.com/jason.eckert/
 
 ```
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/jasoneckert/count.svg)
 ```
 
 <!--
