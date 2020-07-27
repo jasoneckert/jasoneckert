@@ -3,6 +3,10 @@ Want to know more about me? Check out my personal website & blog by navigating t
 - https://jasoneckert.github.io
 - https://triosdevelopers.com/jason.eckert/
 
+```
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+```
+
 <!--
 **jasoneckert/jasoneckert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
