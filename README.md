@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## You are visitor: ![Visitor Count](https://profile-counter.glitch.me/jasoneckert/count.svg)
+## You are visitor: 
+![Visitor Count](https://profile-counter.glitch.me/jasoneckert/count.svg)
