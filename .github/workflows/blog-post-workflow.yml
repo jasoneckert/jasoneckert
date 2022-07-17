@@ -14,5 +14,5 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          max_post_count: "4"
+          max_post_count: "5"
           feed_list: "https://jasoneckert.github.io/myblog/index.xml"
