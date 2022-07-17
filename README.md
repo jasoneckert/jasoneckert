@@ -25,4 +25,8 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dual-booting Asahi Linux on your Apple Silicon Mac](https://jasoneckert.github.io/myblog/asahi-linux/)
+- [The Power of Swag in the Tech Industry](https://jasoneckert.github.io/myblog/the-power-of-swag/)
+- [macOS for Linux admins &lpar;2022 refresh&rpar;](https://jasoneckert.github.io/myblog/macos-for-linux-admins/)
+- [Ontario&#39;s Computer Part 2: The LEXICON Server](https://jasoneckert.github.io/myblog/lexicon-computer/)
 <!-- BLOG-POST-LIST:END -->
