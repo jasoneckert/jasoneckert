@@ -2,11 +2,9 @@
 An ancient C worshippper, I mostly dabble in Rust today, as well as play with the odd JavaScript framework.
 I take on at least one project per year that piques my interest, but you won't find those here ;-)
 
-Want to know more about me? Check out my personal website & blog by navigating to one of the following URLs:
+Want to know more about me? Check out my personal website by navigating to one of the following URLs:
 - https://jasoneckert.github.io
 - https://triosdevelopers.com/jason.eckert/
-
-# You are visitor: ![Visitor Count](https://profile-counter.glitch.me/jasoneckert/count.svg)
 
 <!--
 **jasoneckert/jasoneckert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Latest Blog posts
+# If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Dual-booting Asahi Linux on your Apple Silicon Mac](https://jasoneckert.github.io/myblog/asahi-linux/)
 - [The Power of Swag in the Tech Industry](https://jasoneckert.github.io/myblog/the-power-of-swag/)
@@ -31,3 +29,5 @@ Here are some ideas to get you started:
 - [Ontario&#39;s Computer Part 2: The LEXICON Server](https://jasoneckert.github.io/myblog/lexicon-computer/)
 - [Ontario&#39;s Computer: The Burroughs ICON](https://jasoneckert.github.io/myblog/icon-computer/)
 <!-- BLOG-POST-LIST:END -->
+
+# You are visitor: ![Visitor Count](https://profile-counter.glitch.me/jasoneckert/count.svg)
