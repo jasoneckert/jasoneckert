@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "4"
-          feed_list: "https://jasoneckert.github.io/myblog/"
+          feed_list: "https://jasoneckert.github.io/myblog/index.xml"
