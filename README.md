@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Blog posts
+# Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Dual-booting Asahi Linux on your Apple Silicon Mac](https://jasoneckert.github.io/myblog/asahi-linux/)
 - [The Power of Swag in the Tech Industry](https://jasoneckert.github.io/myblog/the-power-of-swag/)
