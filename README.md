@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 - [The Power of Swag in the Tech Industry](https://jasoneckert.github.io/myblog/the-power-of-swag/)
 - [macOS for Linux admins &lpar;2022 refresh&rpar;](https://jasoneckert.github.io/myblog/macos-for-linux-admins/)
 - [Ontario&#39;s Computer Part 2: The LEXICON Server](https://jasoneckert.github.io/myblog/lexicon-computer/)
+- [Ontario&#39;s Computer: The Burroughs ICON](https://jasoneckert.github.io/myblog/icon-computer/)
 <!-- BLOG-POST-LIST:END -->
