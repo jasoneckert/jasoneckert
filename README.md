@@ -6,7 +6,7 @@ Want to know more about me? Check out my personal website by navigating to one o
 - https://jasoneckert.github.io
 - https://triosdevelopers.com/jason.eckert/
 
-# If you just want to see my latest blog posts:
+## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [Dual-booting Asahi Linux on your Apple Silicon Mac](https://jasoneckert.github.io/myblog/asahi-linux/)
 - [The Power of Swag in the Tech Industry](https://jasoneckert.github.io/myblog/the-power-of-swag/)
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# You are visitor: ![Visitor Count](https://profile-counter.glitch.me/jasoneckert/count.svg)
+## You are visitor: ![Visitor Count](https://profile-counter.glitch.me/jasoneckert/count.svg)
