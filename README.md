@@ -8,11 +8,11 @@ Want to know more about me? Check out my personal website by navigating to one o
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [RISCy business: The long and convoluted rise of today&#39;s dominant computing platform](https://jasoneckert.github.io/myblog/riscy-business/)
 - [How modern open source projects work](https://jasoneckert.github.io/myblog/modern-open-source/)
 - [How Linux Certification Has Evolved Over The Years](https://jasoneckert.github.io/myblog/linux-certification/)
 - [Dual-booting Asahi Linux on your Apple Silicon Mac](https://jasoneckert.github.io/myblog/asahi-linux/)
 - [The Power of Swag in the Tech Industry](https://jasoneckert.github.io/myblog/the-power-of-swag/)
-- [macOS for Linux admins &lpar;2022 refresh&rpar;](https://jasoneckert.github.io/myblog/macos-for-linux-admins/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
