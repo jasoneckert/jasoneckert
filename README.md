@@ -8,11 +8,11 @@ Want to know more about me? Check out my personal website by navigating to one o
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [The Time I Yoga-Balled an Apple Store Employee](https://jasoneckert.github.io/myblog/the-time-i-yoga-balled-an-apple-store-employee/)
 - [2022 in Review](https://jasoneckert.github.io/myblog/2022-in-review/)
 - [Reboot your mind once a day](https://jasoneckert.github.io/myblog/tech-workers-should-meditate/)
 - [RISCy business: The long and convoluted rise of today&#39;s dominant computing platform](https://jasoneckert.github.io/myblog/riscy-business/)
 - [How modern open source projects work](https://jasoneckert.github.io/myblog/modern-open-source/)
-- [How Linux Certification Has Evolved Over The Years](https://jasoneckert.github.io/myblog/linux-certification/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
