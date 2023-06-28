@@ -8,11 +8,11 @@ Want to know more about me? Check out my personal website by navigating to one o
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [So, you’re curious about software development?](https://jasoneckert.github.io/myblog/interested-in-software-development/)
 - [My first textbook is now in its sixth edition](https://jasoneckert.github.io/myblog/linux-sixth-edition/)
 - [I&#39;ve now been teaching tech for 25 years!](https://jasoneckert.github.io/myblog/25-years-teaching-tech/)
 - [Linux is making Apple Great Again](https://jasoneckert.github.io/myblog/linux-is-making-apple-great-again/)
 - [The Ultimate Linux ARM64 Workstation](https://jasoneckert.github.io/myblog/ultimate-linux-arm64-workstation/)
-- [Fun Facts About Linux](https://jasoneckert.github.io/myblog/linux-fun-facts/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
