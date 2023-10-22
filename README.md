@@ -8,11 +8,11 @@ Want to know more about me? Check out my personal website by navigating to one o
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Linux Distro Hopping is a Bad Idea](https://jasoneckert.github.io/myblog/distro-hopping/)
 - [Bob Gunderson Tribute](https://jasoneckert.github.io/myblog/bob-gunderson/)
 - [An Extra Special Family Vacation](https://jasoneckert.github.io/myblog/special-vacation/)
 - [Running a Mainstream Linux Distro Natively on Apple Silicon: Fedora Asahi Remix First Impressions](https://jasoneckert.github.io/myblog/fedora-asahi-remix/)
 - [How to Leverage Music for Maximum Tech Productivity](https://jasoneckert.github.io/myblog/leveraging-music-for-tech-productivity/)
-- [So, you’re curious about software development?](https://jasoneckert.github.io/myblog/interested-in-software-development/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
