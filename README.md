@@ -8,11 +8,11 @@ Want to know more about me? Check out my personal website by navigating to one o
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Setting up a Raspberry Pi Home Server](https://jasoneckert.github.io/myblog/pi-home-server/)
 - [Essential keyboard shortcuts &lpar;Windows/macOS/Linux/UNIX&rpar;](https://jasoneckert.github.io/myblog/shortcuts/)
 - [Linux Distro Hopping is a Bad Idea](https://jasoneckert.github.io/myblog/distro-hopping/)
 - [Bob Gunderson Tribute](https://jasoneckert.github.io/myblog/bob-gunderson/)
 - [An Extra Special Family Vacation](https://jasoneckert.github.io/myblog/special-vacation/)
-- [Running a Mainstream Linux Distro Natively on Apple Silicon: Fedora Asahi Remix First Impressions](https://jasoneckert.github.io/myblog/fedora-asahi-remix/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
