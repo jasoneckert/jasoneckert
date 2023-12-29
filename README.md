@@ -6,6 +6,8 @@ Want to know more about me? Check out my personal website by navigating to one o
 - https://jasoneckert.github.io
 - https://triosdevelopers.com/jason.eckert/
 
+You can also check out this [cool GitHub wall art](https://triosdevelopers.com/jason.eckert/stuff/invertocat2.jpg) made from birch wood. It serves as a good reminder to regularly commit and push.
+
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
 - [2023 in Review](https://jasoneckert.github.io/myblog/2023-in-review/)
