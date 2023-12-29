@@ -5,7 +5,7 @@ I also have some cool GitHub wall art made from birch wood on the wall next to m
 
 ![](https://jasoneckert.github.io/myblog/2023-in-review/invertocat.png?raw=true)
 
-Want to know more about me? Check out my personal website by navigating to one of the following URLs:
+## Want to know more about me? Check out my personal website by navigating to one of the following URLs:
 - https://jasoneckert.github.io
 - https://triosdevelopers.com/jason.eckert/
 
