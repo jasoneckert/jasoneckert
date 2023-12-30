@@ -12,11 +12,11 @@ Check out my personal website by navigating to one of the following URLs:
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Extending the life of an Intel-based Mac using Windows 11](https://jasoneckert.github.io/myblog/intel-mac-win11/)
 - [2023 in Review](https://jasoneckert.github.io/myblog/2023-in-review/)
 - [Setting up a Raspberry Pi Home Server](https://jasoneckert.github.io/myblog/pi-home-server/)
 - [Essential keyboard shortcuts &lpar;Windows/macOS/Linux/UNIX&rpar;](https://jasoneckert.github.io/myblog/shortcuts/)
 - [Linux Distro Hopping is a Bad Idea](https://jasoneckert.github.io/myblog/distro-hopping/)
-- [Bob Gunderson Tribute](https://jasoneckert.github.io/myblog/bob-gunderson/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
