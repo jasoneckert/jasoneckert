@@ -12,11 +12,11 @@ Check out my personal website by navigating to one of the following URLs:
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of RISC-V and Open Hardware](https://jasoneckert.github.io/myblog/risc-v/)
 - [Tips for Maintaining a Growth Mindset](https://jasoneckert.github.io/myblog/growth-mindset/)
 - [Remembering Pepper](https://jasoneckert.github.io/myblog/remembering-pepper/)
 - [40 years of Macintosh](https://jasoneckert.github.io/myblog/40-years-of-mac/)
 - [Extending the life of an Intel-based Mac using Windows 11](https://jasoneckert.github.io/myblog/intel-mac-win11/)
-- [2023 in Review](https://jasoneckert.github.io/myblog/2023-in-review/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
