@@ -12,11 +12,11 @@ Check out my personal website by navigating to one of the following URLs:
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Practicing Cybersafety](https://jasoneckert.github.io/myblog/cybersafety/)
 - [Configuring GitHub Discussions to provide Blog Comments](https://jasoneckert.github.io/myblog/github-discussions-blog/)
 - [7 Tips for a Healthy Digital Lifestyle](https://jasoneckert.github.io/myblog/digital-lifestyle/)
 - [Demystifying Artificial Intelligence &lpar;AI&rpar;](https://jasoneckert.github.io/myblog/demystifying-ai/)
 - [How I Keep my Linux Textbook Updated for New Versions](https://jasoneckert.github.io/myblog/keeping-linux-books-updated/)
-- [The Rise of RISC-V and Open Hardware](https://jasoneckert.github.io/myblog/risc-v/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
