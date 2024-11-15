@@ -12,7 +12,7 @@ Check out my personal website by navigating to one of the following URLs:
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Installing Fedora Workstation ARM using a Raw Image](https://jasoneckert.github.io/myblog/linux-arm-raw-image/)
+- [Installing a Fedora Linux ARM VM from a Raw Image](https://jasoneckert.github.io/myblog/linux-arm-raw-image/)
 - [Copilot+ PC Review: Windows on ARM is finally here](https://jasoneckert.github.io/myblog/windows-on-arm/)
 - [Maximizing Your Hiking Experience](https://jasoneckert.github.io/myblog/hiking/)
 - [Practical Cybersafety for Everyone](https://jasoneckert.github.io/myblog/cybersafety/)
