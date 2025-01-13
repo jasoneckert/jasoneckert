@@ -12,11 +12,11 @@ Check out my personal website by navigating to one of the following URLs:
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Tips to Evolve Your Tech Career in the Age of AI](https://jasoneckert.github.io/myblog/ai-in-tech/)
 - [2024 in Review](https://jasoneckert.github.io/myblog/2024-in-review/)
 - [Running an LLM locally using Ollama](https://jasoneckert.github.io/myblog/llms-using-ollama/)
 - [Installing a Fedora Linux ARM VM from a Raw Image](https://jasoneckert.github.io/myblog/linux-arm-raw-image/)
 - [Copilot+ PC Review: Windows on ARM is finally here](https://jasoneckert.github.io/myblog/windows-on-arm/)
-- [Maximizing Your Hiking Experience](https://jasoneckert.github.io/myblog/hiking/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
