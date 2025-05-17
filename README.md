@@ -12,11 +12,11 @@ Check out my personal website by navigating to one of the following URLs:
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [It’s Still Your Call: Ethics in the Age of AI](https://jasoneckert.github.io/myblog/ethics-in-the-age-of-ai/)
 - [The Story Behind the Mac vs PC Rivalry — And Where Linux Quietly Took Over](https://jasoneckert.github.io/myblog/mac-vs-pc/)
 - [Canada: The Unsung Hero of AI Innovation](https://jasoneckert.github.io/myblog/canadian-ai/)
 - [Leveraging WSL2 for Systems &amp; Cloud Administration, Cybersecurity, and Software Development](https://jasoneckert.github.io/myblog/wsl2/)
 - [Tips to Evolve Your Tech Career in the Age of AI](https://jasoneckert.github.io/myblog/ai-in-tech/)
-- [2024 in Review](https://jasoneckert.github.io/myblog/2024-in-review/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
