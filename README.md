@@ -12,11 +12,11 @@ Check out my personal website by navigating to one of the following URLs:
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Janet Jackson&#39;s Denial of Service &lpar;DoS&rpar; Attack](https://jasoneckert.github.io/myblog/janet-jackson-dos/)
 - [Happy Canada Day!](https://jasoneckert.github.io/myblog/canada-day/)
 - [How an Ancient PowerBook Captured a Summer Vacation](https://jasoneckert.github.io/myblog/powerbook-summer-vacation/)
 - [It’s Still Your Call: Ethics in the Age of AI](https://jasoneckert.github.io/myblog/ethics-in-the-age-of-ai/)
 - [The Story Behind the Mac vs PC Rivalry — And Where Linux Quietly Took Over](https://jasoneckert.github.io/myblog/mac-vs-pc/)
-- [Canada: The Unsung Hero of AI Innovation](https://jasoneckert.github.io/myblog/canadian-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
