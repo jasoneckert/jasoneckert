@@ -12,7 +12,7 @@ Check out my personal website by navigating to one of the following URLs:
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Pushing the Limits of ARM CI with Actuated and Apple Silicon](https://jasoneckert.github.io/myblog/arm-ci/)
+- [Demonstrating the Power of Apple Silicon using Actuated CI](https://jasoneckert.github.io/myblog/arm-ci/)
 - [Janet Jackson&#39;s Denial of Service &lpar;DoS&rpar; Attack](https://jasoneckert.github.io/myblog/janet-jackson-dos/)
 - [Happy Canada Day!](https://jasoneckert.github.io/myblog/canada-day/)
 - [How an Ancient PowerBook Captured a Summer Vacation](https://jasoneckert.github.io/myblog/powerbook-summer-vacation/)
