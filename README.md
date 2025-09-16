@@ -12,11 +12,11 @@ Check out my personal website by navigating to one of the following URLs:
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Win10 Is Nearing End-of-Life: What Should You Do Next?](https://jasoneckert.github.io/myblog/win10eol/)
 - [Demonstrating the Power of Apple Silicon using Actuated CI](https://jasoneckert.github.io/myblog/arm-ci/)
 - [Janet Jackson&#39;s Denial of Service &lpar;DoS&rpar; Attack](https://jasoneckert.github.io/myblog/janet-jackson-dos/)
 - [Happy Canada Day!](https://jasoneckert.github.io/myblog/canada-day/)
 - [How an Ancient PowerBook Captured a Summer Vacation](https://jasoneckert.github.io/myblog/powerbook-summer-vacation/)
-- [It’s Still Your Call: Ethics in the Age of AI](https://jasoneckert.github.io/myblog/ethics-in-the-age-of-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
