@@ -12,11 +12,11 @@ Check out my personal website by navigating to one of the following URLs:
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [2025 in Review](https://jasoneckert.github.io/myblog/2025-in-review/)
 - [Grace Blackwell Desktop Supercomputer: First Impressions](https://jasoneckert.github.io/myblog/grace-blackwell/)
 - [Sick of cables? Switch to 5G Home Internet!](https://jasoneckert.github.io/myblog/5g-home-internet/)
 - [Windows on ARM: One Year Later](https://jasoneckert.github.io/myblog/windows-on-arm-1year/)
 - [Introduction to Hugo](https://jasoneckert.github.io/myblog/hugo/)
-- [Win10 Is Nearing End-of-Life: What Should You Do Next?](https://jasoneckert.github.io/myblog/win10eol/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
