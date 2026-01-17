@@ -1,5 +1,5 @@
 # Welcome to my public corner on GitHub! 
-An ancient C worshippper, I mostly dabble in Rust today, as well as play with the odd JavaScript framework.
+An ancient C worshippper, I mostly work in Python and Rust today, as well as play with the odd JavaScript framework.
 I take on at least one project per year that piques my interest, but you won't find those here. 
 I also have some cool GitHub wall art made from birch wood on the wall next to my desk. It serves as a good reminder to regularly commit and push.
 
