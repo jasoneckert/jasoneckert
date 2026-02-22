@@ -12,11 +12,11 @@ Check out my personal website by navigating to one of the following URLs:
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [I Used Em Dashes Before AI Made Them Popular](https://jasoneckert.github.io/myblog/em-dashes/)
 - [How Microsoft &lpar;Probably&rpar; Killed My Snapdragon Dev Kit](https://jasoneckert.github.io/myblog/how-microsoft-killed-my-snapdragon-devkit/)
 - [2025 in Review](https://jasoneckert.github.io/myblog/2025-in-review/)
 - [Grace Blackwell Desktop Supercomputer: First Impressions](https://jasoneckert.github.io/myblog/grace-blackwell/)
 - [Sick of cables? Switch to 5G Home Internet!](https://jasoneckert.github.io/myblog/5g-home-internet/)
-- [Windows on ARM: One Year Later](https://jasoneckert.github.io/myblog/windows-on-arm-1year/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
