@@ -12,11 +12,11 @@ Check out my personal website by navigating to one of the following URLs:
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Gatherings Still Rock in 2026](https://jasoneckert.github.io/myblog/open-source-gatherings/)
 - [The Return of the UNIX Workstation &lpar;Now With AI&rpar;](https://jasoneckert.github.io/myblog/return-of-the-unix-workstation/)
 - [Windows Server 2025 Runs Better on ARM](https://jasoneckert.github.io/myblog/server-2025-arm64/)
 - [The Rise of Local AI &lpar;and Why It Won’t Replace Cloud AI&rpar;](https://jasoneckert.github.io/myblog/rise-of-local-ai/)
 - [What I Learned Running Two College Video Game Programs &lpar;2011-2018&rpar;](https://jasoneckert.github.io/myblog/vg-programs/)
-- [I Used Em Dashes Before AI Made Them Popular](https://jasoneckert.github.io/myblog/em-dashes/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
