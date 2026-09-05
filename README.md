@@ -12,11 +12,11 @@ Check out my personal website by navigating to one of the following URLs:
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Another Special Family Vacation](https://jasoneckert.github.io/myblog/vacation-2026/)
 - [A Brief History of Computing](https://jasoneckert.github.io/myblog/a-brief-history-of-computing/)
 - [How Nature Benefits Us](https://jasoneckert.github.io/myblog/nature/)
 - [Open Source Gatherings Still Rock in 2026](https://jasoneckert.github.io/myblog/open-source-gatherings/)
 - [The Return of the UNIX Workstation &lpar;Now With AI&rpar;](https://jasoneckert.github.io/myblog/return-of-the-unix-workstation/)
-- [Windows Server 2025 Runs Better on ARM](https://jasoneckert.github.io/myblog/server-2025-arm64/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
