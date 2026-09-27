@@ -12,11 +12,11 @@ Check out my personal website by navigating to one of the following URLs:
 
 ## If you just want to see my latest blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Keeps Trying to Name the Future](https://jasoneckert.github.io/myblog/copilot-pc-dead/)
 - [The Terminal Before the Terminal](https://jasoneckert.github.io/myblog/teletype/)
 - [Another Special Family Vacation](https://jasoneckert.github.io/myblog/vacation-2026/)
 - [A Brief History of Computing](https://jasoneckert.github.io/myblog/a-brief-history-of-computing/)
 - [How Nature Benefits Us](https://jasoneckert.github.io/myblog/nature/)
-- [Open Source Gatherings Still Rock in 2026](https://jasoneckert.github.io/myblog/open-source-gatherings/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
